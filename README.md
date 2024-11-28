@@ -3,4 +3,8 @@ A Python-based GUI application for monitoring, logging, and managing USB activit
 
 Prerequisites: Python, PIP, Tkinter, Pynput
 
+
+For the partial fulfilment of the Course Linux Shell Programming (CSET-213)
+
+
 Made with ❤️ by Shourya Kakkar
