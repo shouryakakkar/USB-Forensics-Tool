@@ -9,10 +9,6 @@ For the partial fulfilment of the Course Linux Shell Programming (CSET-213)
 
 Made with ❤️ by Shourya Kakkar
 
-![Screenshot from 2024-11-29 03-37-20](https://github.com/user-attachments/assets/436d201d-3958-46cf-aeb0-7b2967a32cef)
 
-![Screenshot from 2024-11-29 03-34-44](https://github.com/user-attachments/assets/460917d3-e512-438c-9f2e-1a23b1bc11c8)
-
-![Screenshot from 2024-11-29 03-34-17](https://github.com/user-attachments/assets/ebe2a850-960c-4c2b-a6f6-3421e81cc692)
 
 
